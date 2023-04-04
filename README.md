@@ -32,3 +32,5 @@
 ### Vecka 14
 
 **Måndag:** Idag blev jag preliminärt färdig met sidans text/innehåll och väntar nu på godkännande från kolegerna. Utöver detta har hjälpt till och arbetat med skapandet av sidan samt undersöka om mindre ändringar borde implementeras.
+
+**Måndag:** Idag har jag börjat leta/undersöka olika analytiska verktyg som är lagliga i Sverige. Har dock inte kunnat jobba mycket då jag blev kidnappad av Caroline.
